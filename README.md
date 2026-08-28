@@ -1,8 +1,6 @@
-# 明視眼鏡 MingShi Optical
+# 建德眼鏡
 
 眼鏡行官方網站，純 HTML / CSS / JavaScript 靜態網站（無後端）。
-
-> 店名「明視眼鏡」為暫定名稱，可自行修改 `index.html` 等頁面中的文字。
 
 ## 網站架構
 
