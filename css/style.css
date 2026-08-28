@@ -312,6 +312,7 @@ button {
   font-size: 1.4rem;
   font-weight: 700;
   color: var(--color-primary);
+  white-space: nowrap;
 }
 
 .brand-en {
@@ -413,6 +414,10 @@ button {
 
   .topbar-info {
     gap: 12px;
+  }
+
+  .brand-zh {
+    font-size: 1.15rem;
   }
 }
 
@@ -992,6 +997,18 @@ textarea.form-control {
   font-size: 0.9rem;
   text-align: center;
   padding: 20px;
+}
+
+.map-embed {
+  width: 100%;
+  border-radius: var(--radius-md);
+  overflow: hidden;
+  border: 1px solid var(--color-border);
+}
+
+.map-embed iframe {
+  display: block;
+  width: 100%;
 }
 
 /* ---------- CTA banner ---------- */
